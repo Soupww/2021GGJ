@@ -4,7 +4,7 @@
 
 ![POSTER](https://github.com/LuniumLuk/ChooChooTrain/blob/main/Arts/poster.png)
 
-> 来自深圳市福田区红岭中学的三名有志大学生在2021 CiGA GameJam开发的独立游戏作品：
+> 2021 CiGA GameJam： Bravo Train
 > Control the god to launch beam to save the animals
 
 Video link：https://www.bilibili.com/video/BV1dh411h7Na/
